@@ -2,6 +2,10 @@
 
 This manuscript examines how software engineering is being rewritten in the age of agents. Its concern is not simply how to use more AI, but how engineering, organization, and management must be redesigned once AI begins to participate in real work.
 
+## License
+
+This book is released under `CC BY 4.0` (Creative Commons Attribution 4.0 International). Reading, copying, redistribution, and adaptation are allowed, provided that proper attribution is given. See the root `LICENSE` file for details.
+
 ## Reading Guide
 
 - [Preface](01-preface.md)
